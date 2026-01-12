@@ -1,0 +1,6 @@
+gradio
+langchain-openai
+youtube-transcript-api
+langchain-community
+langchain-core
+python-dotenv
